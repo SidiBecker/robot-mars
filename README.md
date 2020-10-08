@@ -29,10 +29,10 @@ Para utilizá-lo, faça requisições REST para o programa, com os seguintes par
 
 Para iniciar o projeto, instale as dependências com ```npm install``` e inicie o sistema com ```npm start```. <br><br>
 
-<b>Exemplo de Utilização</b>: Realizando a requisição: <br><br>
-```curl -s --request POST http://localhost:3000/rest/mars/RMMLRMLM```<br> <br>
+<b>Exemplo de Utilização</b>: Realizando a requisição: <br>
+```curl -s --request POST http://localhost:3000/rest/mars/RMMLRMLM```<br>
 
-o sistema irá retornar: <br><br>
+o sistema irá retornar: <br>
 
 ```(3, 1, N)``` <br><br>
 

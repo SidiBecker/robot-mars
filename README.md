@@ -11,8 +11,6 @@
 
 ### 💻 Projeto
 
-<br>
-
 <p align="justify">
 Um time de robôs devem ser colocados pela NASA para explorar um terreno em Marte. Esse terreno, que é retangular, precisa ser navegado pelos robôs de tal forma que suas câmeras acopladas possam obter uma visão completa da região, enviando essas imagens novamente para a Terra. 
 </p>
@@ -34,7 +32,7 @@ Para iniciar o projeto, instale as dependências com ```npm install``` e inicie 
 
 o sistema irá retornar: <br>
 
-```(3, 1, N)``` <br><br>
+```(3, 1, N)``` <br>
 
 onde ``3`` é o eixo X, ``1`` o eixo Y e ``N`` a direção onde o robô está apontando, podendo ser ```N, E, S,``` ou ``` W```.
 
@@ -44,7 +42,7 @@ onde ``3`` é o eixo X, ``1`` o eixo Y e ``N`` a direção onde o robô está ap
 
 Esse projeto foi desenvolvido com [Node.js](https://nodejs.org/).
 
-<br><br>
+<br>
 
 ## 🤔 Como contribuir
 
@@ -55,7 +53,7 @@ Esse projeto foi desenvolvido com [Node.js](https://nodejs.org/).
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-<br><br>
+<br>
 
 ## 📝 Licença
 
